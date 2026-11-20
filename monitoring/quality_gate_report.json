@@ -1,0 +1,9 @@
+{
+    "decision": "REJECTED",
+    "reason": "Candidate did not achieve the required MAE improvement.",
+    "champion_MAE": 3.9007,
+    "candidate_MAE": 3.9972,
+    "required_improvement_percent": 1.0,
+    "actual_improvement_percent": -2.47,
+    "champion_retained": true
+}

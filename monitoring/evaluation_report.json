@@ -1,0 +1,6 @@
+{
+    "model": "existing_champion",
+    "MAE": 4.6271,
+    "RMSE": 5.9842,
+    "R2": 0.8528
+}
